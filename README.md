@@ -16,10 +16,10 @@ Landing Page
  About Us
 ![about (1)](https://user-images.githubusercontent.com/51227848/95294480-fc88c000-0892-11eb-9df6-13c4747fe22b.jpeg)
 <br>
-<hr>
-Trending-Tech & Resources
+ ![1](https://user-images.githubusercontent.com/51227848/95295400-9e5cdc80-0894-11eb-8c12-a991ac1f9b03.jpeg)
 <br>
-  
+ ![2](https://user-images.githubusercontent.com/51227848/95295477-c8ae9a00-0894-11eb-88b7-1c2dcb64500c.jpeg)
+<br>
+ ![4](https://user-images.githubusercontent.com/51227848/95295487-d106d500-0894-11eb-9184-fd8c6e4c524a.jpeg)
+<br>
 ![resources-page(1)](https://user-images.githubusercontent.com/51227848/95294581-2a6e0480-0893-11eb-90bd-ee50705434cf.jpeg)
-<br><br>
-![trending-tech(1)](https://user-images.githubusercontent.com/51227848/95294660-4f627780-0893-11eb-87b4-f6647545963d.jpeg)
